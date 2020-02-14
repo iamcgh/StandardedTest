@@ -1,0 +1,65 @@
+@charset "UTF-8";
+div {
+	position: absolute;
+	margin-left: 35%;
+	margin-top: 11%;
+}
+
+form {
+	width: 380px;
+	height: 230px;
+	border: solid thick deepskyblue;
+	padding: 20px;
+	border-radius: 20px;
+	background-color: aliceblue;
+}
+
+.password {
+	width: 240px;
+	height: 30px;
+	margin: 15px;
+	padding-left: 40px;
+	border-radius: 5px;
+	background: url(images/lock.png) no-repeat;
+
+}
+
+.username {
+	width: 240px;
+	height: 30px;
+	margin: 15px;
+	padding-left: 40px;
+	border-radius: 5px;
+	background: url(images/user.png) no-repeat;
+}
+
+
+#log_in {
+	width: 80px;
+	height: 40px;
+	border-radius: 10px;
+	margin-right: 20px;
+	margin-left: 80px;
+	margin-top: 15px;
+	color:black;
+	background-color:deepskyblue;
+}
+
+#regist {
+	width: 80px;
+	height: 40px;
+	border-radius: 10px;
+	margin-left: 20px;
+	margin-right: 80px;
+	margin-top: 15px;
+	color:black;
+	background-color:orange;
+}
+
+#other_choice{
+	margin: 10px;
+}
+
+#find_psw{
+	margin-left: 88px;
+}

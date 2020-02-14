@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+#parent{
+	padding:10px;
+	margin:10px;
+}
+
+#head{
+	background-color: blueviolet;
+	height:200px;
+}
+
+#title{
+	font-size: 38px;
+	font-style: normal;
+	color: white;
+	text-align: center;
+	margin:auto;
+}
+
+#body{
+	font-size: 25px;
+	color:blue;
+	text-align: center;
+	margin: auto;
+	height:500px;
+}
+
+#foot{
+	font-size: 25px;
+	font-style: inherit;
+	background-color:#80ffff;
+	text-align: center;
+	margin: auto;
+	height:100px;
+}
+
+.nav{
+	margin:30px;
+}
